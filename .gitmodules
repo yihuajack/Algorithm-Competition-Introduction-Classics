@@ -1,0 +1,3 @@
+[submodule "aoapc-bac2nd"]
+	path = aoapc-bac2nd
+	url = https://github.com/aoapc-book/aoapc-bac2nd.git
